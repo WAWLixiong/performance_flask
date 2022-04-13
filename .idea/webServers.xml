@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e87032a7-d3be-421c-8e66-59d17e87ddfb" name="py38env">
+        <fileTransfer accessType="SFTP" host="192.168.9.128" port="22" sshConfigId="18ba3215-c57b-4519-9e60-9fc96e2e8d3e" sshConfig="root@192.168.9.128:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
