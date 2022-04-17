@@ -1,7 +1,5 @@
-
-POST http://192.168.9.128:9999/info
+POST http://192.168.9.128:9998/info
 Content-Type: application/json
 
 {
-
 }
